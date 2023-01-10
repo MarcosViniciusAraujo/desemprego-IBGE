@@ -48,3 +48,7 @@ Após executado, o programa exibirá um gráfico similiar ao seguinte:
 ## **Fonte**
 
 Para construção desse programa, foi necessário o uso de uma **API**, que foi retirada do site oficial do [**IBGE**](https://sidra.ibge.gov.br/pesquisa/pnadcm/tabelas).
+
+## **Autor**
+
+-   Marcos Vinicius Araujo Almeida
