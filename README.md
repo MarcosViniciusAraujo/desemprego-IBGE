@@ -37,7 +37,7 @@ Após instaladas as dependências, o programa deve ser executado da seguinte for
 python desemprego.py
 ```
 
-O reposítório também contém o arquivo `desemprego.ipynb`, sendo um **Jupyter Notebook** com todo o desenvolvimento do proejto
+O reposítório também contém o arquivo `desemprego.ipynb`, sendo um **Jupyter Notebook** com todo o desenvolvimento do projeto
 
 ## **Resultados**
 
